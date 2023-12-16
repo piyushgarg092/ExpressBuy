@@ -16,7 +16,5 @@ Demo Images :
 
 <img width="960" alt="7" src="https://user-images.githubusercontent.com/93420193/174482904-8c4c9eee-3efd-4287-9c03-53f2806f9008.png">
 
-Demo Video : 
 
-https://user-images.githubusercontent.com/93420193/174482922-266a0be5-280c-4c9f-a1a5-90dec7ad5305.mp4
 
