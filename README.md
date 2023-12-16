@@ -1,5 +1,5 @@
-# Amazon_clone
-This is a Amazon App Clone with multiple functionalities like User authentication (Sign in or Login) using Firebase, Add to cart products , Payment Gateway using Stripe , Shows your order history using database in firebase and it is made using Reactjs.
+# ExpressBuy
+This is an e-commerce website with multiple functionalities like User authentication (Sign in or Login) using Firebase, Add to cart products , Payment Gateway using Stripe , Shows your order history using database in firebase and it is made using Reactjs.
 
 Demo Images : 
 <img width="960" alt="1" src="https://user-images.githubusercontent.com/93420193/174482888-76bf5199-5d96-478d-8bd7-3a251a070246.png">
